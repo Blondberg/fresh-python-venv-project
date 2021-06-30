@@ -1,7 +1,4 @@
-# py-sudoku-solver-mk2
-
-A sudoku solver using the backtracking algorithm.
-Made in python 3.9.
+# Fresh python project with venv
 
 Create virtual environment
 python -m venv <venv name>
